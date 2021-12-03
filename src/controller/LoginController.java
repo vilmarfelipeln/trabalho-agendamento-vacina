@@ -9,6 +9,8 @@ import java.sql.ResultSet;
 
 /**
  * Classe responsável por disponibilizar métodos para realizar o login no sistema.
+ *
+ * @author LaNiX
  */
 public class LoginController {
 
